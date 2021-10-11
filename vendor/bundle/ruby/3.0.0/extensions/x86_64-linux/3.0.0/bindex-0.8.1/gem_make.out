@@ -1,0 +1,15 @@
+current directory: /home/prohackfr/workspace/Ruby/rails/achieve/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/home/prohackfr/.rbenv/versions/3.0.1/bin/ruby -I /home/prohackfr/.rbenv/versions/3.0.1/lib/ruby/3.0.0 -r ./siteconf20211011-73257-cxq6fw.rb extconf.rb
+creating Makefile
+
+current directory: /home/prohackfr/workspace/Ruby/rails/achieve/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /home/prohackfr/workspace/Ruby/rails/achieve/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/prohackfr/workspace/Ruby/rails/achieve/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20211011-73257-pwv482/skiptrace/internal
